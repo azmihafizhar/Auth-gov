@@ -1,0 +1,23 @@
+{
+  "name": "INApas - Satu Identitas Digital Indonesia",
+  "short_name": "INApas",
+  "description": "Platform Identitas Digital Nasional Republik Indonesia (INative)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09131f",
+  "theme_color": "#0d2b45",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["government", "productivity", "utilities"]
+}

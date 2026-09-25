@@ -1,0 +1,6 @@
+{
+  "name": "INApas - Satu Identitas Digital Indonesia (INative)",
+  "description": "Platform Identitas Digital Nasional Republik Indonesia berbasis GovTech INA DIGITAL Peruri dengan Identity Wallet IKD, Biometrik Liveness, SSO Layanan Publik, dan INative Cross-Platform Framework.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
